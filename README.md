@@ -97,7 +97,8 @@ This system showcases **production-grade data engineering architecture**, combin
 
 ## Architecture Overview
 
-![Architecture Overview](./assets/architecture.png)
+![Architecture Overview](./assets/
+DE71E806-CE1B-49E9-B129-FC8A84885651.PNG)
 
 ---
 
